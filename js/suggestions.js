@@ -1,0 +1,25 @@
+let suggestions = [
+    "",
+    "Sneha",
+    "Sahana",
+    "Dheeraj",
+    "Sannidhi",
+    "Nidhimili",
+    "Pratham",
+    "Sanjana",
+    "Manish",
+    "Shivu",
+    "Madhu(rnr)",
+    "Vidruma",
+    "Arfa(rnr)",
+    "Tanusha",
+    "Vishal(rnr)",
+    "Vrushab(rnr)",
+    "Mohan(rnr)",
+    "Pritam(rnr)",
+    "Suhas(rnr)",
+    "Mrutyunjay(rnr)",
+    "Arjun(rnr)",
+  
+    
+];
