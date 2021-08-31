@@ -12,7 +12,7 @@ let suggestions = [
     "Madhu(rnr)",
     "Vidruma",
     "Arfa(rnr)",
-    "Tanusha",
+    "Tanusha(rnr)",
     "Vishal(rnr)",
     "Vrushab(rnr)",
     "Mohan(rnr)",
